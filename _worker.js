@@ -1,7 +1,7 @@
 import { connect } from "cloudflare:sockets";
 
 // Variables
-const rootDomain = "nautica.bimahn.my.id"; // Ganti dengan domain utama kalian
+const rootDomain = "bimahn.my.id"; // Ganti dengan domain utama kalian
 const serviceName = "nautica"; // Ganti dengan nama workers kalian
 const apiKey = "696224f24293699aa02a6a008623d26d0997a"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "bimahabib98@gmail.com"; // Ganti dengan email yang kalian gunakan
